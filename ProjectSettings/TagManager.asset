@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - anahtar
+  - Sandik
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - ground
+  - "\u0131nteractable"
+  - zemin
+  - book
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: arkaplan
+    uniqueID: 1732196515
+    locked: 0
+  - name: zemin
+    uniqueID: 652287625
+    locked: 0
+  - name: objeler
+    uniqueID: 4283951937
+    locked: 0
+  - name: oyuncu
+    uniqueID: 1242401787
+    locked: 0
+  - name: UI
+    uniqueID: 1760327125
+    locked: 0
